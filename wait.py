@@ -1,7 +1,7 @@
 """
 文件名：wait
 创建时间：20:53
-创作人：吴昭泉
+创作人：weiyang
 """  # 判断元素是否可见
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
